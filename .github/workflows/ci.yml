@@ -12,9 +12,9 @@ on:
 
 # fake env variables to bypass env check
 env: 
-  NEXT_PUBLIC_APP_URL: "https://fake.com"
-  NEXT_PUBLIC_TMDB_TOKEN: "fake-token"
-  NEXT_PUBLIC_SITE_NAME: "fake-name"
+  NEXT_PUBLIC_APP_URL: "https://fortbendmovies.vercel.app"
+  NEXT_PUBLIC_TMDB_TOKEN: "603c39d59465b393a89f39730e9fa9bd"
+  NEXT_PUBLIC_SITE_NAME: "fortbendmovies"
   NEXT_PUBLIC_IMAGE_DOMAIN: "fake-domain"
 
 jobs:
